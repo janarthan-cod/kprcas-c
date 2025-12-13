@@ -1,0 +1,9 @@
+.navbar{
+    background-color: rgb(21, 221, 138);
+}
+ul{
+    display: flex;
+    list-style: none;
+    color: aliceblue;
+    justify-content: space-around;
+}

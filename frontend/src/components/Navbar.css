@@ -1,9 +1,9 @@
 .navbar{
-    background-color: rgb(21, 221, 138);
+    background-color:rgb(6, 160, 255)
 }
-ul{
+.ul{
     display: flex;
     list-style: none;
-    color: aliceblue;
-    justify-content: space-around;
+    color: cornsilk;
+    justify-content : space-around;
 }

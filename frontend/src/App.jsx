@@ -9,7 +9,7 @@ import Service from "./Page/Service"
 import Contact from "./Page/Contact";
 import UseEffect from "./hooks/UseEffect";
 import Form from "./components/Form";
-import { Todo } from "./components/Todo";
+import  Todo  from "./components/Todo";
 const App=()=>{
   return(
     <>
